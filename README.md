@@ -25,7 +25,7 @@ python -m venv venv
 venv\Scripts\activate.bat
 
 ### (If you're on macOS/Linux, use this instead)
-ource venv/bin/activate
+source venv/bin/activate
 
 ### 5. Upgrade pip
 python -m pip install --upgrade pip
