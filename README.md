@@ -1,11 +1,16 @@
 # SauceDemo Automation Tests - Playwright (Python)
 
-**Author:** Mohana Priya Ravikumar  
+**Author:** Mohana Priya Ravikumar
+  
 **GitHub Repository:** [SauceDemo-Playwright-Python-Tests](https://github.com/R-Mohana-Priya/SauceDemo-Playwright-Python-Tests)
+
+---
 
 This project contains automated end-to-end tests for [SauceDemo](https://www.saucedemo.com/) using [Playwright](https://playwright.dev/python/) and [Pytest](https://docs.pytest.org/).
 
 ---
+
+##Steps to import the test framework, execute and fetch reports:
 
 ### 1. Clone the repository
 git clone https://github.com/R-Mohana-Priya/SauceDemo-Playwright-Python-Tests.git
