@@ -36,6 +36,7 @@ pip install pytest pytest-html pytest-xdist playwright
 python -m playwright install
 
 (Optional) Verify installations
+
 pytest --version
 
 python -m playwright --version
