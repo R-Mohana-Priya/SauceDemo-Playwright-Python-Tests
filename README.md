@@ -1,6 +1,6 @@
 # SauceDemo Automation Framework With Playwright (Python)
 
-# Author: Mohana Priya Ravikumar (https://github.com/R-Mohana-Priya/SauceDemo-Playwright-Python-Tests)
+Author: Mohana Priya Ravikumar (https://github.com/R-Mohana-Priya/SauceDemo-Playwright-Python-Tests)
 
 Follow these steps in your terminal or command prompt:
 
