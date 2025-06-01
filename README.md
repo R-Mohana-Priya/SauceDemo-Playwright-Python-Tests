@@ -32,16 +32,19 @@ python -m pip install --upgrade pip
 
 ### 6. Install required Python packages and Playwright browser drivers
 pip install pytest pytest-html pytest-xdist playwright
+
 python -m playwright install
 
 (Optional) Verify installations
 pytest --version
+
 python -m playwright --version
 
 ### 7. Run the tests with an HTML report
 pytest --html=report.html --self-contained-html
 
 (Optional) Run tests in parallel with 5 workers and generate the report
+
 pytest -n 5 --html=report.html --self-contained-html
 
 
